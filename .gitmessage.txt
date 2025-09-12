@@ -1,0 +1,21 @@
+# -------------------------------
+# Commit Template
+# -------------------------------
+# 格式: <type>(<scope>): <subject>
+#
+# type:
+#   NEW      - 新功能
+#   BUGFIX   - 修復 bug
+#   DOCS     - 文件更新
+#   STYLE    - 代碼格式 / 空白 / 分號等
+#   REFACT   - 重構代碼
+#   OPTM     - 性能優化
+#   TEST     - 新增或修改測試
+#   CHORE    - 其他修改 (建構流程、工具、依賴等)
+#
+# scope: 可選，修改的模組或功能，例如: feed_handler, strategy, disruptor
+# subject: 簡短描述，建議 50 個字以內
+# body: 可選，詳述修改原因或背景，建議 72 字元換行
+# footer: 可選，用於關閉 issue 或其他訊息
+
+
