@@ -86,7 +86,7 @@ Project Structure
     └── benchmark.py            # 測試延遲/吞吐
 
 Roadmap
-- Add multiple market feed adapters 
-- Implement additional trading strategies
-- Integrate FPGA acceleration layer
-- Expand risk management and monitoring
+* [ ] Add multiple market feed adapters 
+* [ ] Implement additional trading strategies
+* [ ] Integrate FPGA acceleration layer
+* [ ] Expand risk management and monitoring
