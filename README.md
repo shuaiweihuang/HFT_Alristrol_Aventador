@@ -42,9 +42,11 @@ Prerequisites
 - GoogleTest (for unit tests)
 
 Build
-- mkdir build && cd build
-- cmake ..
-- make -j4
+```bash
+mkdir build && cd build
+cmake ..
+make -j4
+```
 
 Project Structure
 /HFT_Alristrol_Aventador
